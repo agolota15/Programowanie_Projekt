@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\golot\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\golot\\.nuget\\packages"
+    ]
+  }
+}

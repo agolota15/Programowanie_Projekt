@@ -1,0 +1,102 @@
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\bower.json
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\bundleconfig.json
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.deps.json
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.runtimeconfig.json
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.runtimeconfig.dev.json
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.dll
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.pdb
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.Views.dll
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.Views.pdb
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.csproj.AssemblyReference.cache
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.AssemblyInfoInputs.cache
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.AssemblyInfo.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.csproj.CoreCompileInputs.cache
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.RazorAssemblyInfo.cache
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.RazorAssemblyInfo.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.TagHelpers.input.cache
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.TagHelpers.output.cache
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.RazorCoreGenerate.cache
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Create.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Delete.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Details.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Edit.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Index.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Rooms\Create.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Rooms\Delete.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Rooms\Details.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Rooms\Edit.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Rooms\Index.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.RazorTargetAssemblyInfo.cache
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.RazorTargetAssemblyInfo.cs
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.Views.pdb
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.dll
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.pdb
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.genruntimeconfig.cache
+C:\Users\golot\Source\Repos\HotelBookingStartupProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.csproj.CopyComplete
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\bower.json
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\bundleconfig.json
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.deps.json
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.runtimeconfig.json
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.runtimeconfig.dev.json
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.dll
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.pdb
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.Views.dll
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\bin\Debug\netcoreapp2.1\HotelBookingProject.Views.pdb
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.csproj.AssemblyReference.cache
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.AssemblyInfoInputs.cache
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.AssemblyInfo.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.csproj.CoreCompileInputs.cache
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.RazorAssemblyInfo.cache
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.RazorAssemblyInfo.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.TagHelpers.input.cache
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.TagHelpers.output.cache
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.RazorCoreGenerate.cache
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Create.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Delete.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Details.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Edit.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Index.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Rooms\Create.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Rooms\Delete.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Rooms\Details.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Rooms\Edit.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Rooms\Index.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.RazorTargetAssemblyInfo.cache
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.RazorTargetAssemblyInfo.cs
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.Views.pdb
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.dll
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.pdb
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.genruntimeconfig.cache
+C:\Users\golot\Desktop\3 semestr\Programowanie\HotelBookingProject\HotelBookingStartupProject\obj\Debug\netcoreapp2.1\HotelBookingProject.csproj.CopyComplete

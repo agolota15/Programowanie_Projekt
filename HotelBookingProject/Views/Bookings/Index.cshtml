@@ -1,0 +1,58 @@
+﻿@model IEnumerable<HotelBookingProject.Models.Booking>
+
+@{
+    ViewData["Title"] = "Bookings";
+    int year = ViewBag.YearToDisplay;
+    List<DateTime> fullyOccupiedDates = (List<DateTime>)ViewBag.FullyOccupiedDates;
+}
+
+<h2>Bookings</h2>
+
+<p>
+    <a asp-action="Create">Add New</a>
+</p>
+
+@*List of bookings*@
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.StartDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EndDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IsActive)
+                </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Customer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Room)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsActive)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Room.Description)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
